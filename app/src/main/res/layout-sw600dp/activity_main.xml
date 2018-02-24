@@ -15,9 +15,9 @@
             android:id="@+id/imageview_udacity"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:contentDescription="@string/imageview_udacity"
-            android:scaleType="centerCrop"
             android:adjustViewBounds="true"
+            android:contentDescription="@string/imageview_udacity"
+            android:scaleType="fitXY"
             android:src="@drawable/photo_landscape" />
 
         <LinearLayout

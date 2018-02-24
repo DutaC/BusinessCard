@@ -6,4 +6,5 @@
     <dimen name="land_width">291dp</dimen>
     <dimen name="portrait_height">270dp</dimen>
     <dimen name="credits_text_size">8sp</dimen>
+    <dimen name="layout_margin">8dp</dimen>
 </resources>
