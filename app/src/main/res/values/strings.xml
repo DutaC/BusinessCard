@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">BusinessCard</string>
+    <string name="address">2465 Latham St, Mountain View, CA 94043</string>
+    <string name="company">Udacity</string>
+    <string name="phone">650–555–5555</string>
+    <string name="web"> <a href="https://www.udacity.com">www.udacity.com</a></string>
+    <string name="logo_text">Imagine your future!</string>
+    <string name="email_textView">support@udacity.com</string>
+    <string name="icons_credits">Icons by <a href="https://www.iconfinder.com/iconsets/fatcow">FatCow Web Hosting</a> \n<a href="https://creativecommons.org/licenses/by/3.0/us/">CC BY 3.0 US</a></string>
+    <string name="imageview_udacity">imageview_udacity</string>
+    <string name="imageview_logo">imageview_logo</string>
+    <string name="imageview_phone_contact">phone_contact</string>
+    <string name="imageview_web_contact">imageview_web_contact</string>
+    <string name="imageview_email_contact">imageview_email_contact</string>
+    <string name="imageview_map_contact">imageview_map_contact</string>
+</resources>
+
+
+

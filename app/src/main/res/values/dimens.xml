@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="textsize">18sp</dimen>
+    <dimen name="margin_image">8dp</dimen>
+    <dimen name="margin_text">8dp</dimen>
+    <dimen name="land_width">291dp</dimen>
+    <dimen name="portrait_height">270dp</dimen>
+    <dimen name="credits_text_size">8sp</dimen>
+</resources>
